@@ -118,4 +118,4 @@ Then visit: http://localhost:8000
 
 ## License
 
-© 2026 VeltrixDigital. All rights reserved.
+© 2026 VeltrixDigital. All rights reserved."# VeltrixDigital" 
